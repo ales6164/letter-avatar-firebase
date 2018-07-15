@@ -39,6 +39,9 @@ width - width & height of the image
 text - your initials or any other text
 color - color of the background
 font - font to use - options are `bariol` or `din`
+fontColor - color of the text
+fontSize - size of the text
+shape - shape of the avatar - options are `square` (default) or `circle`
 
 ## License
 
