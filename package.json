@@ -1,5 +1,5 @@
 {
-  "name": "initials-avatar-generator",
+  "name": "letter-avatar-firebase",
   "version": "1.5.4",
   "description": "a random avatar generator base on node and node-imagemagick",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kubal5003/initials-avatar-generator.git"
+    "url": "https://github.com/ales6164/letter-avatar-firebase.git"
   },
   "keywords": [
     "avatar",
     "image",
     "initials"
   ],
-  "author": "kubal5003",
+  "author": "ales6164",
   "license": "MIT",
   "dependencies": {
     "gm": "^1.17.0"
